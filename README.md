@@ -1,3 +1,3 @@
-#HELLO
+HELLO
 
 iam new to git hub
